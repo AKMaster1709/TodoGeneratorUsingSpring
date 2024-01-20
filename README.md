@@ -1,7 +1,5 @@
 # TodoGeneratorUsingSpring
 
-# TodoGeneratorUsingSpring
-
 # ToDo App using Spring Boot
 
 Welcome to my ToDo app project! This simple application is built using the Spring Boot framework and allows users to manage their tasks efficiently.
