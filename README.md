@@ -10,7 +10,7 @@ The ToDo app provides a user-friendly interface to create, update, and delete ta
 It also implements user authentication for personalized task list.
 
 ## Screenshots
-![Web capture_20-1-2024_233220_localhost]((https://github.com/AKMaster1709/TodoGeneratorUsingSpring/blob/main/Web%20capture_20-1-2024_233220_localhost.jpeg))
+![Web capture_20-1-2024_233220_localhost](https://github.com/AKMaster1709/TodoGeneratorUsingSpring/blob/main/Web%20capture_20-1-2024_233220_localhost.jpeg)
 ![Web capture_20-1-2024_233251_localhost](https://github.com/AKMaster1709/TodoGeneratorUsingSpring/blob/main/Web%20capture_20-1-2024_233251_localhost.jpeg)
 ![Web capture_20-1-2024_233316_localhost](https://github.com/AKMaster1709/TodoGeneratorUsingSpring/blob/main/Web%20capture_20-1-2024_233316_localhost.jpeg)
 ![Web capture_20-1-2024_233344_localhost](https://github.com/AKMaster1709/TodoGeneratorUsingSpring/blob/main/Web%20capture_20-1-2024_233344_localhost.jpeg)
